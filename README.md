@@ -1,16 +1,11 @@
-# taskeo
+# Taskeo - A simple task manager.
+Simple task manager (really basic) made with Flutter. It let you create task, add todo inside a task.
 
-Application de gestion de tache.
+## UI
+This application will use [google_fonts | Flutter Package](https://pub.dev/packages/google_fonts) package to manage fonts directly from [Google Fonts](https://fonts.google.com/) repository.
 
-## Getting Started
+## State management
+We will use the famous Bloc Pattern from [flutter_bloc | Flutter Package](https://pub.dev/packages/flutter_bloc) for state management.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Data access
+For data access, we will use repository pattern. It will add an abstraction layer on top of that data access. That layer will be very helpful when we want to reuse those repository interfaces.
