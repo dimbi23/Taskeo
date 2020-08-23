@@ -20,3 +20,4 @@ Follow me on
 
 * [Twitter](https://twitter.com/dimbi23)
 * [Instagram](https://www.instagram.com/dimbinirina.tefiniaina/)
+* [Medium](https://medium.com/@dimbinirina)
