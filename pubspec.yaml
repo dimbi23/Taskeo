@@ -1,5 +1,5 @@
 name: taskeo
-description: Application de gestion de tache.
+description: Simple task manager (really basic) made with Flutter. It let you create task, add todo inside a task.
 publish_to: 'none'
 version: 1.0.0+1
 

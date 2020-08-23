@@ -15,7 +15,13 @@ For data access, we will use repository pattern. It will add an abstraction laye
 * We will use [sqflite | Flutter Package](https://pub.dev/packages/sqflite) package to persist data inside the device.
 * [path_provider | Flutter Package](https://pub.dev/packages/path_provider) to help us with the sqlite database path.
 
+## Dependency injection (DI)
+We will use [get_it | Dart Package](https://pub.dev/packages/get_it) package for dependency injection.
+
 ---
+
+Made with ❤️️ in Madagascar 🇲🇬
+
 Follow me on
 
 * [Twitter](https://twitter.com/dimbi23)
